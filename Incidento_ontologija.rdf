@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija/"
+     xml:base="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#assignedExecutor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#assignedExecutor">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Vykdytojas"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#assignedGroup -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#assignedGroup">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Vykdytojas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Grupė"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasCategory -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasCategory">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kategorija"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasImpact -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasImpact">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Poveikis"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasOrigin -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasOrigin">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kilmė"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasParticipants -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasParticipants">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Dalyviai"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasPriority -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasPriority">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasProject -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasProject">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Projektas"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasSubcategory -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasSubcategory">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kategorija"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Subkategorija"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasUrgency -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasUrgency">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Skubumas"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#reportedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#reportedBy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Pranešėjas"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#reportedForOrg -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#reportedForOrg">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Pranešėjas"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Organizacija"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasDescription -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasDescription">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasSummary -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#hasSummary">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Aprašymas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Aprašymas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Dalyviai -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Dalyviai">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Grupė -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Grupė">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Vykdytojas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kategorija -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kategorija">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kilmė -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kilmė">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Organizacija -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Organizacija">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Pranešėjas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Poveikis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Poveikis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Pranešėjas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Pranešėjas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Projektas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Projektas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Santrauka -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Santrauka">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Skubumas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Skubumas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Prioritetas"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Subkategorija -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Subkategorija">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Kategorija"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Vykdytojas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Vykdytojas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ana/ontologies/2025/8/incidento_ontologija#Incidentas"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
