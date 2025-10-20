@@ -26,10 +26,7 @@ Pagrindinis dėmesys skiriamas IT incidentų klasifikacijai, automatizuojant jų
 
 ## 🗂️ Projekto struktūra
 
-```plaintext
-📁 ontology/                 → OWL ontologijos failai
-📁 data/                     → Incidentų tekstiniai duomenys (CSV ar JSON)
-📁 notebooks/                → Jupyter Notebook su NLP klasifikatoriumi
-📁 img/                      → Diagramų, ontologijos schemų, BPMN paveikslėliai
-📄 Incide               → Projekto aprašymas (šis failas)
-📄 README.md                 → Projekto aprašymas (šis failas)
+```plaintexti
+📄 Incidento_ontologija.rdf           → Ontologijos RDF/OWL failas, sukurtas su Protégé
+📄 README.md                          → Projekto aprašymas (šis failas)
+📄 ontologija.png                     → Ontologijos schema (vizualizacija)
