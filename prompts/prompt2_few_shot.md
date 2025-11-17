@@ -38,19 +38,6 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
 }
 
 
-### Pavyzdys 1
-
-**X:**  
-"Neveikia spausdintuvas kabinete 302."
-
-**Y:**  
-```json
-{
-  "kategorija": "Spausdinimo įranga",
-  "subkategorija": "Spausdintuvas"
-}
-
-
 ### Pavyzdys 2
 
 **X:**
@@ -71,6 +58,7 @@ json { "kategorija": "Tinklo problemos", "subkategorija": "WiFi" }
   "kategorija": "Tinklo ištekliai",
   "subkategorija": "VPN"
 }
+
 
 
 
