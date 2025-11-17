@@ -1,51 +1,20 @@
-Prompt 1 – Zero-shot Example
+# Prompt 1: Zero-Shot Pavyzdys
 
-🧠 Kontekstas:
+Šis pavyzdys rodo, kaip agentas gauna vieną naują (jam anksčiau nematytą) X ir prašoma sugeneruoti Y.
 
-Jūs esate dirbtinio intelekto agentas, skirtas IT incidentų valdymui. Jūsų užduotis – analizuoti incidento aprašymą ir priskirti jį tinkamai ontologijos kategorijai bei subkategorijai.
+---
 
+**UŽKLAUSA (PROMPT):**
 
+[cite_start]Tu esi dirbtinio intelekto agentas, veikiantis kaip „GAI klasifikavimo tarnyba“  dideliam IT paslaugų tiekėjui. [cite_start]Tavo užduotis – gauti laisvu tekstu parašytą incidento aprašymą (X) ir, remiantis incidento valdymo ontologija[cite: 128], priskirti jam teisingą `Kategorija` ir `Subkategorija` (Y).
 
-🎯 Užduotis (Input X):
-
-Incidento pavadinimas: „Nepavyksta prisijungti prie e. sveikatos sistemos, sistema užstrigo ir nerodo paciento duomenų.“
-
-
-
-Papildoma informacija:
-
-Pranešėjas: gyventojas
-
-Prioritetas: aukštas
-
-Data: 2025-10-01
-
-Skubumas: skubus
-
-
-
-🤖 Jūsų veiksmai:
-
-Suprask pateiktą tekstą (natural language understanding).
-
-Remiantis turima ontologija, priskirk tinkamą kategoriją ir subkategoriją.
-
-Nurodyk tinkamą vykdytojo grupę ar rolę.
-
-Pateik rezultatą struktūrizuotu formatu (JSON).
-
-
-
-✅ Laukiamas rezultatas (Output Y):
-
+Tavo atsakymas PRIVALO būti pateiktas JSON formatu:
 {
-
-&nbsp; "category": "Programinė įranga",
-
-&nbsp; "subcategory": "E. sveikata",
-
-&nbsp; "assignee\_group": "IT Servisas"
-
+  "kategorija": "...",
+  "subkategorija": "..."
 }
 
+**Incidento aprašymas (X):**
+"Nepavyksta prisijungti prie VPN tinklo. Vakar viskas veikė, šiandien meta klaidą."
 
+**Tavo atsakymas (Y):**
