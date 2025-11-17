@@ -4,10 +4,10 @@
 Jūs esate dirbtinio intelekto agentas, skirtas IT incidentų valdymui. Jūsų užduotis – analizuoti incidento aprašymą ir priskirti jį tinkamai ontologijos kategorijai bei subkategorijai.
 
 ## 🎯 Užduotis (Input X):
-Incidentas: „Nepavyksta prisijungti prie e. sveikatos sistemos, sistema užstrigo ir nerodo paciento duomenų.“
+Incidentas: „Nepavyksta prisijungti prie e. sveikatos sistemos, sistema užstrigo.“
 
 Papildoma informacija:
-- Pranešėjas: gydytojas
+- Pranešėjas: gyventojas
 - Prioritetas: aukštas
 - Data: 2025-10-01
 - Skubumas: skubus
