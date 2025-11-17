@@ -38,13 +38,13 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
 }
 
 
-### Pavyzdys 2
+Pavyzdys 2
 
-**X:**
+X:
 "Dingo Wi-Fi ryšys visame pastate, negalime dirbti."
 
-**Y:**
-```json
+Y:
+
 {
   "kategorija": "Tinklo problemos",
   "subkategorija": "WiFi"
@@ -62,6 +62,7 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
   "kategorija": "Tinklo ištekliai",
   "subkategorija": "VPN"
 }
+
 
 
 
