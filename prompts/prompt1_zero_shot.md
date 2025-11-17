@@ -8,13 +8,13 @@ Jūs esate dirbtinio intelekto agentas, skirtas IT incidentų valdymui. Jūsų u
 
 🎯 Užduotis (Input X):
 
-Incidentas: „Nepavyksta prisijungti prie e. sveikatos sistemos, sistema užstrigo ir nerodo paciento duomenų.“
+Incidento pavadinimas: „Nepavyksta prisijungti prie e. sveikatos sistemos, sistema užstrigo ir nerodo paciento duomenų.“
 
 
 
 Papildoma informacija:
 
-Pranešėjas: gydytojas
+Pranešėjas: gyventojas
 
 Prioritetas: aukštas
 
@@ -47,4 +47,5 @@ Pateik rezultatą struktūrizuotu formatu (JSON).
 &nbsp; "assignee\_group": "IT Servisas"
 
 }
+
 
