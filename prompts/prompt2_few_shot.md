@@ -37,3 +37,30 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
   "subkategorija": "Spausdintuvas"
 }
 
+
+### Pavyzdys 2
+
+**X:**
+"Dingo Wi-Fi ryšys visame pastate, negalime dirbti."
+
+**Y:**
+```json
+{
+  "kategorija": "Tinklo problemos",
+  "subkategorija": "WiFi"
+}
+
+
+### Pavyzdys 3
+
+**X:**
+"Nepavyksta prisijungti prie VPN."
+
+**Y:**
+```json
+{
+  "kategorija": "Tinklo ištekliai",
+  "subkategorija": "VPN"
+}
+
+
