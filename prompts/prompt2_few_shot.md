@@ -1,7 +1,7 @@
 
 ---
 
-## 📄 KOREGUOTAS **Prompt 2: Few-shot**
+## 📄**Prompt 2: Few-shot**
 
 ```markdown
 # Prompt 2: Few-shot Pavyzdys
@@ -62,6 +62,7 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
   "kategorija": "Tinklo ištekliai",
   "subkategorija": "VPN"
 }
+
 
 
 
