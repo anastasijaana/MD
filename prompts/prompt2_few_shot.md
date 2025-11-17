@@ -1,17 +1,38 @@
-📄 prompt2_few_shot.md – Few-shot pavyzdys
-# Prompt 2 – Few-shot Example
 
-🧠 Kontekstas:
-Jūs esate dirbtinio intelekto agentas, skirtas incidentų klasifikavimui pagal IT sistemų ontologiją. Remkitės ankstesniais pavyzdžiais ir suklasifikuokite naują incidentą.
+---
 
-Pavyzdžiai (X,Y poros):
+## 📄 KOREGUOTAS **Prompt 2: Few-shot**
 
-### 1️⃣
-**X:** „Nepavyksta atsispausdinti dokumento per bendrą tinklo spausdintuvą.“  
+```markdown
+# Prompt 2: Few-shot Pavyzdys
+
+Šis pavyzdys išplečia pirmąjį, pateikdamas agentui kelis žinomus (X, Y) pavyzdžius prieš pateikiant naują užklausą.  
+Tai padeda agentui geriau suprasti laukiamą rezultatą remiantis anksčiau klasifikuotais atvejais.
+
+---
+
+**UŽKLAUSA (PROMPT):**
+
+Tu esi dirbtinio intelekto agentas, veikiantis kaip „GAI klasifikavimo tarnyba“ dideliam IT paslaugų tiekėjui.  
+Tavo užduotis – gauti laisvu tekstu parašytą incidento aprašymą (X) ir, remiantis incidentų valdymo ontologija, priskirti jam teisingą:
+
+- `kategorija`
+- `subkategorija`
+
+Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
+
+---
+
+## Žinomi pavyzdžiai:
+
+### Pavyzdys 1
+
+**X:**  
+"Neveikia spausdintuvas kabinete 302."
+
 **Y:**  
 ```json
 {
-  "category": "Spausdinimo įranga",
-  "subcategory": "Spausdintuvas",
-  "assignee_group": "Techninė pagalba"
+  "kategorija": "Spausdinimo įranga",
+  "subkategorija": "Spausdintuvas"
 }
