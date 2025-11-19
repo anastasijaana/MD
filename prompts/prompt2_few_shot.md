@@ -28,7 +28,7 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
   "kategorija": "Spausdinimo įranga",
   "subkategorija": "Spausdintuvas"
 }
-
+```
 
 
 
@@ -43,6 +43,7 @@ JSON
   "kategorija": "Tinklo problemos",
   "subkategorija": "WiFi"
 }
+
 
 
 
