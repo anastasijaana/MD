@@ -30,32 +30,6 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
 }
 
 
-### Pavyzdys 2
-
-**X:**
-"Dingo Wi-Fi ryšys visame pastate, negalime dirbti."
-
-**Y:**
-json { "kategorija": "Tinklo problemos", "subkategorija": "WiFi" }
-
-
-### Pavyzdys 3
-
-**X:**
-"Nepavyksta prisijungti prie VPN."
-
-**Y:**
-```json
-{
-  "kategorija": "Tinklo ištekliai",
-  "subkategorija": "VPN"
-}
----
-
-DABARTINĖ UŽDUOTIS:
-Dabar, remdamasis šiais pavyzdžiais, atlik klasifikavimą naujam incidentui.
-Incidento aprašymas (X): "Mano kompiuteris labai lėtai veikia, o atidarant el. paštą iššoka keista lentelė apie užrakintus failus. Įtariu virusą."
-Tavo atsakymas (Y):
 
 
 
