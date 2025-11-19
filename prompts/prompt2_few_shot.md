@@ -56,11 +56,13 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
 ```
 
 
+
 DABARTINĖ UŽDUOTIS:
 Dabar, remdamasis šiais pavyzdžiais, atlik klasifikavimą naujam incidentui.
 
 Incidento aprašymas (X): "Mano kompiuteris labai lėtai veikia, o atidarant el. paštą iššoka keista lentelė apie užrakintus failus. Įtariu virusą."
 Tavo atsakymas (Y):
+
 
 
 
