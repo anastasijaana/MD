@@ -13,7 +13,7 @@ Tai padeda agentui geriau suprasti laukiamą rezultatą remiantis anksčiau klas
 
 **UŽKLAUSA (PROMPT):**
 
-Tu esi dirbtinio intelekto agentas, veikiantis kaip „IT incidentų klasifikavimo tarnyba“ dideliam IT paslaugų tiekėjui.  
+Tu esi dirbtinio intelekto agentas, veikiantis kaip „Incidentų klasifikavimo tarnyba“ dideliam IT paslaugų tiekėjui.  
 Tavo užduotis – gauti laisvu tekstu parašytą incidento aprašymą (X) ir, remiantis incidentų valdymo ontologija, priskirti jam teisingą:
 
 - `kategorija`
@@ -58,6 +58,7 @@ json { "kategorija": "Tinklo problemos", "subkategorija": "WiFi" }
   "kategorija": "Tinklo ištekliai",
   "subkategorija": "VPN"
 }
+
 
 
 
