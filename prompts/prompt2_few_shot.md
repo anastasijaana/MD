@@ -32,6 +32,17 @@ Tavo atsakymas PRIVALO būti pateiktas JSON formatu.
 
 
 
+Pavyzdys 2
+X: "Dingo Wi-Fi ryšys visame pastate, negalime dirbti."
+
+Y:
+
+JSON
+
+{
+  "kategorija": "Tinklo problemos",
+  "subkategorija": "WiFi"
+}
 
 
 
