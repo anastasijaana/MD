@@ -1,11 +1,9 @@
 Lab 1.5: Incidentų klasifikavimo AI Agentas (Incidentų Klasifikavimo Tarnyba)
-
 Autorė: Anastasija Golubeva, ISIfm-24
 
 Darbo tema: Ontologija ir duomenimis pagrįsto verslo procesų modeliavimo tyrimas
 
 Sistemos Aprašymas
-
 Šis sąsiuvinis demonstruoja "end-to-end" AI sprendimą, paremtą magistro darbu. Sistema veikia kaip „Incidentų Klasifikavimo Tarnyba“ , skirta IT paslaugų tiekėjui.
 
 Agento tikslas – gauti laisvu tekstu pateiktą incidento aprašymą (X) ir automatiškai priskirti jam struktūrizuotą, ontologija paremtą klasifikaciją – Kategoriją ir Subkategoriją (Y).
