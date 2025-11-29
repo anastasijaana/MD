@@ -1,0 +1,5002 @@
+[
+  {
+    "description": "Problemos naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Klaida jungiantis per Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys Phishing neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys VPN neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Problemos naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Naudotojai negali pasiekti WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Phishing neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Phishing atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Phishing neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Įsilaužimas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Virusas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys Operacinė sistema neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Virusas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Phishing neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įsilaužimas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Problemos naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaviatūra atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Phishing atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Trikdžiai naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys VPN neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įrenginys WiFi neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys VPN neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Trikdžiai naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "VPN neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "VPN neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Klaviatūra atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Operacinė sistema neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Klaviatūra atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Trikdžiai naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Problemos naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Klaida jungiantis per Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Spausdintuvas neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Maršrutizatorius atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Trikdžiai naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Klaida jungiantis per WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Operacinė sistema neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Klaida jungiantis per Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Klaida jungiantis per Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Phishing neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naršyklė neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Trikdžiai naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Klaida jungiantis per Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Operacinė sistema neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Trikdžiai naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Trikdžiai naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Klaida jungiantis per Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Virusas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Virusas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įsilaužimas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Klaida jungiantis per Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Klaida jungiantis per WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naršyklė neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įsilaužimas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Virusas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "WiFi atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Monitorius neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Problemos naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Spausdintuvas neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Maršrutizatorius atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Įrenginys WiFi neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "WiFi atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įsilaužimas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaviatūra atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys WiFi neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įsilaužimas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Monitorius neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įsilaužimas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Spausdintuvas neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys VPN neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys WiFi neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Maršrutizatorius atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naršyklė neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Operacinė sistema neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Klaida jungiantis per WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Įsilaužimas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Phishing atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Monitorius neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "WiFi atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Operacinė sistema neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "El. paštas neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Trikdžiai naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Problemos naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "El. paštas neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "WiFi atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "El. paštas neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Maršrutizatorius atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Trikdžiai naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Įsilaužimas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Phishing neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Problemos naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Klaida jungiantis per Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įsilaužimas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Įrenginys Phishing neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaviatūra neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Problemos naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Trikdžiai naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Phishing neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Phishing neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Problemos naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Trikdžiai naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Rodoma klaida susijusi su VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Trikdžiai naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įsilaužimas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Monitorius atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Skenavimo įrenginys neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Trikdžiai naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Klaida jungiantis per Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Maršrutizatorius atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Klaviatūra neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Spausdintuvas neveikia tinkamai.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Virusas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Maršrutizatorius atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Klaviatūra atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys VPN neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įrenginys Maršrutizatorius neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaviatūra atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Įrenginys Įsilaužimas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "El. paštas neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Phishing atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Trikdžiai naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "VPN neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys Įsilaužimas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys VPN neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Trikdžiai naudojant Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Operacinė sistema atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Phishing neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Trikdžiai naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Naršyklė neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Įrenginys Įsilaužimas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Naudotojai negali pasiekti VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "El. paštas neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Rodoma klaida susijusi su El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Problemos naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "WiFi atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įsilaužimas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "VPN atsijungia kas kelias minutes.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Įsilaužimas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Problemos naudojant VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Klaida jungiantis per Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įsilaužimas atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "VPN neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Trikdžiai naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Įrenginys Pelė neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Operacinė sistema neveikia po atnaujinimo.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Įrenginys Virusas neveikia tinkamai.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Trikdžiai naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Trikdžiai naudojant Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Maršrutizatorius.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Naudotojai negali pasiekti VPN.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "VPN"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naršyklė atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Įrenginys Monitorius neveikia tinkamai.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Problemos naudojant Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Įrenginys El. paštas neveikia tinkamai.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Klaida jungiantis per Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Rodoma klaida susijusi su WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "El. paštas atsijungia kas kelias minutes.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Spausdintuvas atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Nepavyksta prisijungti prie WiFi.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Įrenginys WiFi neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Klaida jungiantis per Virusas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Pelė neveikia po atnaujinimo.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Skenavimo įrenginys atsijungia kas kelias minutes.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Įrenginys WiFi neveikia tinkamai.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Naudotojai negali pasiekti El. paštas.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "El. paštas"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Įsilaužimas.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Įsilaužimas"
+  },
+  {
+    "description": "Problemos naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Klaida jungiantis per Monitorius.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Monitorius"
+  },
+  {
+    "description": "Maršrutizatorius neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "Maršrutizatorius"
+  },
+  {
+    "description": "Sulėtėjusi sistema dėl Operacinė sistema.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Operacinė sistema"
+  },
+  {
+    "description": "Virusas neveikia po atnaujinimo.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Virusas"
+  },
+  {
+    "description": "Klaida jungiantis per Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Pelė atsijungia kas kelias minutes.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Phishing atsijungia kas kelias minutes.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  },
+  {
+    "description": "Naudotojai negali pasiekti Klaviatūra.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Klaviatūra"
+  },
+  {
+    "description": "Skenavimo įrenginys neveikia po atnaujinimo.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Rodoma klaida susijusi su Naršyklė.",
+    "kategorija": "Programinė įranga",
+    "subkategorija": "Naršyklė"
+  },
+  {
+    "description": "WiFi neveikia po atnaujinimo.",
+    "kategorija": "Tinklo problemos",
+    "subkategorija": "WiFi"
+  },
+  {
+    "description": "Trikdžiai naudojant Spausdintuvas.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Spausdintuvas"
+  },
+  {
+    "description": "Klaida jungiantis per Pelė.",
+    "kategorija": "Techninė įranga",
+    "subkategorija": "Pelė"
+  },
+  {
+    "description": "Problemos naudojant Skenavimo įrenginys.",
+    "kategorija": "Spausdinimo įranga",
+    "subkategorija": "Skenavimo įrenginys"
+  },
+  {
+    "description": "Trikdžiai naudojant Phishing.",
+    "kategorija": "Saugumo incidentai",
+    "subkategorija": "Phishing"
+  }
+]
